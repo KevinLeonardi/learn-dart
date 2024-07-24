@@ -14,4 +14,8 @@ void main() {
   // final email = "temid@gmail.com";
   // final String email = "temid@gmail.com";
   const qty = 5;
+  print(x);
+  print(p);
+  print(z);
+  print(qty);
 }
