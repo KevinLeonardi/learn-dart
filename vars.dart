@@ -24,6 +24,4 @@ void main(List<String> args) {
 
   myName = "John";
   print(myName);
-  // print(name);
-  // print(x);
 }
